@@ -1,26 +1,65 @@
-[
-  {
-    "id": "613a3fe3f234e75e54ce0138",
-    "text": "commodo proident",
-    "icon": "http://placehold.it/32x32",
-    "to": "/"
-  },
-  {
-    "id": "613a3fe3e918841a7327d047",
-    "text": "cillum sit",
-    "icon": "http://placehold.it/32x32",
-    "to": "/"
-  },
-  {
-    "id": "613a3fe36a42e2b274c843b3",
-    "text": "est mollit",
-    "icon": "http://placehold.it/32x32",
-    "to": "/"
-  },
-  {
-    "id": "613a3fe331c5aba6772266eb",
-    "text": "mollit cupidatat",
-    "icon": "http://placehold.it/32x32",
-    "to": "/"
+{
+  "navigation": [
+    {
+      "id": "613a3fe3f234e75e54ce0138",
+      "text": "commodo proident",
+      "icon": "http://placehold.it/32x32",
+      "subnavigationRef": "11b2a9f5-2353-4472-9983-9753d41e18d1"
+    },
+    {
+      "id": "613a3fe3e918841a7327d047",
+      "text": "cillum sit",
+      "icon": "http://placehold.it/32x32",
+      "subnavigationRef": "5569cccc-aa40-4eeb-a4a8-e3b51159c622"
+    },
+    {
+      "id": "613a3fe331c5aba6772266eb",
+      "text": "mollit cupidatat",
+      "icon": "http://placehold.it/32x32",
+      "to": "/"
+    }
+  ],
+  "subnavigation": {
+    "11b2a9f5-2353-4472-9983-9753d41e18d1": [
+      {
+        "items": [
+          {
+            "id": "40b57e4a-210e-47e9-92d2-647d5f8b5455",
+            "text": "Subnavigation 11b A",
+            "icon": "http://placehold.it/32x32",
+            "to": "/"
+          },
+          {
+            "id": "da46abb0-2769-47e5-9e6c-f37aad30fbf3",
+            "text": "Subnavigation 11b B",
+            "icon": "http://placehold.it/32x32",
+            "to": "/"
+          }
+        ]
+      }
+    ],
+    "5569cccc-aa40-4eeb-a4a8-e3b51159c622": [
+      {
+        "items": [
+          {
+            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b0",
+            "text": "Subnavigation 556 A",
+            "icon": "http://placehold.it/32x32",
+            "to": "/"
+          }
+        ]
+      },
+      {
+        "title": "Title 556",
+        "items": [
+          {
+            "id": "dfef3382-1a71-463b-a9f7-14a2cb4e34a6",
+            "text": "Subnavigation 556 B",
+            "icon": "http://placehold.it/32x32",
+            "to": "/"
+          }
+        ]
+      }
+    ]
   }
-]
+}

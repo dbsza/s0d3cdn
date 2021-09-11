@@ -19,8 +19,10 @@
       "to": "/"
     }
   ],
-  "subnavigation": {
-    "11b2a9f5-2353-4472-9983-9753d41e18d1": [
+  "subnavigation": [{
+    "id": "11b2a9f5-2353-4472-9983-9753d41e18d1",
+    "backText": "commodo proident",
+    "listItems": [
       {
         "items": [
           {
@@ -37,8 +39,11 @@
           }
         ]
       }
-    ],
-    "5569cccc-aa40-4eeb-a4a8-e3b51159c622": [
+    ]
+  }{
+    "id": "5569cccc-aa40-4eeb-a4a8-e3b51159c622",
+    "backText": "cillum sit",
+    "listItems": [
       {
         "items": [
           {
@@ -61,5 +66,5 @@
         ]
       }
     ]
-  }
+  }]
 }

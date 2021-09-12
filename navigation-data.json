@@ -2,66 +2,78 @@
   "navigation": [
     {
       "id": "613a3fe3f234e75e54ce0138",
-      "text": "commodo proident",
+      "text": "Colaboradores",
       "icon": "http://placehold.it/32x32",
       "subnavigationRef": "11b2a9f5-2353-4472-9983-9753d41e18d1"
     },
     {
       "id": "613a3fe3e918841a7327d047",
-      "text": "cillum sit",
+      "text": "Pontos de Venda",
       "icon": "http://placehold.it/32x32",
       "subnavigationRef": "5569cccc-aa40-4eeb-a4a8-e3b51159c622"
     },
     {
       "id": "613a3fe331c5aba6772266eb",
-      "text": "mollit cupidatat",
+      "text": "Configurações",
       "icon": "http://placehold.it/32x32",
-      "to": "/"
+      "to": "#mollit-cupidatat"
     }
   ],
   "subnavigation": [{
     "id": "11b2a9f5-2353-4472-9983-9753d41e18d1",
-    "backText": "commodo proident",
+    "backText": "Colaboradores",
     "listItems": [
       {
         "items": [
           {
             "id": "40b57e4a-210e-47e9-92d2-647d5f8b5455",
-            "text": "Subnavigation 11b A",
+            "text": "Novo Colaborador",
             "icon": "http://placehold.it/32x32",
-            "to": "/"
+            "to": "#novo-colaborador"
           },
           {
             "id": "da46abb0-2769-47e5-9e6c-f37aad30fbf3",
-            "text": "Subnavigation 11b B",
+            "text": "Histórico de acessos",
             "icon": "http://placehold.it/32x32",
-            "to": "/"
+            "to": "#historico-de-acesso"
           }
         ]
       }
     ]
   }, {
     "id": "5569cccc-aa40-4eeb-a4a8-e3b51159c622",
-    "backText": "cillum sit",
+    "backText": "Pontos de Venda",
     "listItems": [
       {
         "items": [
           {
             "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b0",
-            "text": "Subnavigation 556 A",
+            "text": "Importar PDV",
             "icon": "http://placehold.it/32x32",
-            "to": "/"
+            "to": "#importar-pdv"
           }
         ]
       },
       {
-        "title": "Title 556",
+        "title": "Crud PDV",
         "items": [
           {
             "id": "dfef3382-1a71-463b-a9f7-14a2cb4e34a6",
-            "text": "Subnavigation 556 B",
+            "text": "Cadastrar Ponto de Venda",
             "icon": "http://placehold.it/32x32",
-            "to": "/"
+            "to": "#cadastrar-ponto-de-venda"
+          },
+          {
+            "id": "dfef3382-1a71-463b-a4r5-14a2cb4e34a6",
+            "text": "Editar Ponto de Venda",
+            "icon": "http://placehold.it/32x32",
+            "to": "#editar-ponto-de-venda"
+          },
+          {
+            "id": "dfef3382-1a71-463b-9u5g-14a2cb4e34a6",
+            "text": "Remover Ponto de Venda",
+            "icon": "http://placehold.it/32x32",
+            "to": "#remover-ponto-de-venda"
           }
         ]
       }

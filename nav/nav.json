@@ -20,9 +20,12 @@
         },
         {
             "id": "613a3fe331c5aba6772266eb",
-            "text": "t:f48d0d55-9de7-41d1-8291-4539f831c621",
+            "text": {
+                "pt-BR": "Colaboradores",
+                "en-US": "Collaborators"
+            },
             "icon": "http://placehold.it/32x32",
-            "to": "#mollit-cupidatat"
+            "subnavigationRef": "5569cccc-aa40-4eeb-a4a8-e3b51159c623"
         }
     ],
     "subnavigation": [
@@ -36,7 +39,7 @@
                 {
                     "items": [
                         {
-                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b0",
+                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b1",
                             "text": {
                                 "pt-BR": "Pontos de venda",
                                 "en-US": "Outlets"
@@ -47,7 +50,7 @@
                             }
                         },
                         {
-                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b0",
+                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b2",
                             "text": {
                                 "pt-BR": "Grupos de Segmentos",
                                 "en-US": "Segment Groups"
@@ -55,6 +58,49 @@
                             "icon": "http://placehold.it/32x32",
                             "link": {
                                 "href": "/segment-groups",
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5569cccc-aa40-4eeb-a4a8-e3b51159c623",
+            "backText": {
+                "pt-BR": "Colaboradores",
+                "en-US": "Collaborators"
+            },
+            "groupItems": [
+                {
+                    "items": [
+                        {
+                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
+                            "text": {
+                                "pt-BR": "Colaboradores",
+                                "en-US": "Collaborators"
+                            },
+                            "icon": "http://placehold.it/32x32",
+                            "link": {
+                                "href": "/collaborators",
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": {
+                        "pt-BR": "Jornadas de trabalho",
+                        "en-US": "Workdays"
+                    }
+                    "items": [
+                        {
+                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
+                            "text": {
+                                "pt-BR": "Jornadas de trabalho",
+                                "en-US": "Workdays"
+                            },
+                            "icon": "http://placehold.it/32x32",
+                            "link": {
+                                "href": "/Workdays",
                             }
                         }
                     ]

@@ -46,7 +46,7 @@
                             },
                             "icon": "http://placehold.it/32x32",
                             "link": {
-                                "href": "/outlets",
+                                "href": "/outlets"
                             }
                         },
                         {
@@ -57,7 +57,7 @@
                             },
                             "icon": "http://placehold.it/32x32",
                             "link": {
-                                "href": "/segment-groups",
+                                "href": "/segment-groups"
                             }
                         }
                     ]
@@ -81,7 +81,7 @@
                             },
                             "icon": "http://placehold.it/32x32",
                             "link": {
-                                "href": "/collaborators",
+                                "href": "/collaborators"
                             }
                         }
                     ]
@@ -100,7 +100,7 @@
                             },
                             "icon": "http://placehold.it/32x32",
                             "link": {
-                                "href": "/Workdays",
+                                "href": "/Workdays"
                             }
                         }
                     ]

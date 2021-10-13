@@ -45,9 +45,7 @@
                                 "en-US": "Outlets"
                             },
                             "icon": "http://placehold.it/32x32",
-                            "link": {
-                                "href": "/outlets"
-                            }
+                            "link": "/outlets"
                         },
                         {
                             "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b2",
@@ -56,9 +54,7 @@
                                 "en-US": "Segment Groups"
                             },
                             "icon": "http://placehold.it/32x32",
-                            "link": {
-                                "href": "/segment-groups"
-                            }
+                            "link": "/segment-groups"
                         }
                     ]
                 }
@@ -80,9 +76,7 @@
                                 "en-US": "Collaborators"
                             },
                             "icon": "http://placehold.it/32x32",
-                            "link": {
-                                "href": "/collaborators"
-                            }
+                            "link": "/collaborators"
                         }
                     ]
                 },
@@ -99,9 +93,7 @@
                                 "en-US": "Workdays"
                             },
                             "icon": "http://placehold.it/32x32",
-                            "link": {
-                                "href": "/Workdays"
-                            }
+                            "link": "/Workdays"
                         }
                     ]
                 }

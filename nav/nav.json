@@ -44,7 +44,6 @@
                         "pt-BR": "Pontos de venda",
                         "en-US": "Outlets"
                     },
-                    "icon": "http://placehold.it/32x32",
                     "link": "/outlets"
                 },
                 {
@@ -53,7 +52,6 @@
                         "pt-BR": "Grupos de Segmentos",
                         "en-US": "Segment Groups"
                     },
-                    "icon": "http://placehold.it/32x32",
                     "link": "/segment-groups"
                 }
             ]
@@ -72,7 +70,6 @@
                         "pt-BR": "Colaboradores",
                         "en-US": "Collaborators"
                     },
-                    "icon": "http://placehold.it/32x32",
                     "link": "/collaborators"
                 },
                 {
@@ -88,7 +85,6 @@
                         "pt-BR": "Jornadas de trabalho",
                         "en-US": "Workdays"
                     },
-                    "icon": "http://placehold.it/32x32",
                     "link": "/Workdays"
                 }
             ]

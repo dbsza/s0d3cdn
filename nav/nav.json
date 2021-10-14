@@ -36,28 +36,25 @@
                 "en-US": "Outlets"
             },
             "backIconStyleClassName": "icon-pdv",
-            "groupItems": [
+            "items": [
                 {
-                    "items": [
-                        {
-                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b1",
-                            "text": {
-                                "pt-BR": "Pontos de venda",
-                                "en-US": "Outlets"
-                            },
-                            "icon": "http://placehold.it/32x32",
-                            "link": "/outlets"
-                        },
-                        {
-                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b2",
-                            "text": {
-                                "pt-BR": "Grupos de Segmentos",
-                                "en-US": "Segment Groups"
-                            },
-                            "icon": "http://placehold.it/32x32",
-                            "link": "/segment-groups"
-                        }
-                    ]
+                    "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b1",
+                    "type": "title",
+                    "text": {
+                        "pt-BR": "Pontos de venda",
+                        "en-US": "Outlets"
+                    },
+                    "icon": "http://placehold.it/32x32",
+                    "link": "/outlets"
+                },
+                {
+                    "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b2",
+                    "text": {
+                        "pt-BR": "Grupos de Segmentos",
+                        "en-US": "Segment Groups"
+                    },
+                    "icon": "http://placehold.it/32x32",
+                    "link": "/segment-groups"
                 }
             ]
         },
@@ -68,36 +65,31 @@
                 "en-US": "Collaborators"
             },
             "backIcon": "http://placehold.it/32x32",
-            "groupItems": [
+            "items": [
                 {
-                    "items": [
-                        {
-                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
-                            "text": {
-                                "pt-BR": "Colaboradores",
-                                "en-US": "Collaborators"
-                            },
-                            "icon": "http://placehold.it/32x32",
-                            "link": "/collaborators"
-                        }
-                    ]
+                    "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
+                    "text": {
+                        "pt-BR": "Colaboradores",
+                        "en-US": "Collaborators"
+                    },
+                    "icon": "http://placehold.it/32x32",
+                    "link": "/collaborators"
                 },
                 {
-                    "title": {
+                    "type": "title",
+                    "text": {
+                        "pt-BR": "Jornadas de trabalho",
+                        "en-US": "Workdays"
+                    }
+                 },
+                {
+                    "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
+                    "text": {
                         "pt-BR": "Jornadas de trabalho",
                         "en-US": "Workdays"
                     },
-                    "items": [
-                        {
-                            "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
-                            "text": {
-                                "pt-BR": "Jornadas de trabalho",
-                                "en-US": "Workdays"
-                            },
-                            "icon": "http://placehold.it/32x32",
-                            "link": "/Workdays"
-                        }
-                    ]
+                    "icon": "http://placehold.it/32x32",
+                    "link": "/Workdays"
                 }
             ]
         }

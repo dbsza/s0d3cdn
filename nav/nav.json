@@ -3,7 +3,7 @@
         {
             "id": "613a3fe3f234e75e54ce0138",
             "text": "Dashboard",
-            "icon": "http://placehold.it/32x32",
+            "icon": "https://via.placeholder.com/32x32",
             "link": {
                 "href": "/dashboard",
                 "target": "_blank"
@@ -24,7 +24,7 @@
                 "pt-BR": "Colaboradores",
                 "en-US": "Collaborators"
             },
-            "icon": "http://placehold.it/32x32",
+            "icon": "https://via.placeholder.com/32x32",
             "subnavigationRef": "5569cccc-aa40-4eeb-a4a8-e3b51159c623"
         }
     ],
@@ -61,7 +61,7 @@
                 "pt-BR": "Colaboradores",
                 "en-US": "Collaborators"
             },
-            "backIcon": "http://placehold.it/32x32",
+            "backIcon": "https://via.placeholder.com/32x32",
             "items": [
                 {
                     "id": "81d1a3f9-0a8d-4d23-8cd2-e759b17d17b3",
